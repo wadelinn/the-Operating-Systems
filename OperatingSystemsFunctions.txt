@@ -4,3 +4,6 @@ In latest version, it uses tiles to access apps.
 Mac OS Operating System was developed by Macintosh computer in 1984.
 Mac OS Operating System was applied on Apple desktop, PC, and tablet.
 The latest version is OS X.
+Linux was introduced in 1991.
+Linux is a free and open-source software collaboration.
+Users can obtain versions in vary way.
