@@ -1,3 +1,6 @@
 Windows Operating System was established by Microsoft in the mid-1980s.
 It has a graphical user interface.
 In latest version, it uses tiles to access apps.
+Mac OS Operating System was developed by Macintosh computer in 1984.
+Mac OS Operating System was applied on Apple desktop, PC, and tablet.
+The latest version is OS X.
